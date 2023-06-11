@@ -1,2 +1,3 @@
 # Proyecto Indice de Marginación
-Un repositorio en github para el proyecto. El repositorio deberá llevar un archivo readme.md en el que se explique lo que se hace y los archivos de código, pero no la base de datos. 
+Presentacion de graficas de Marginacion en Mexico por Estado incluyendo a sus municipios, para poder vizualizar tendencias respecto al porcentage de 
+municipios que caen dentro de las categorias "Muy baja", "Baja", "Media", "Alta","Muy alta" y poder vizualizar cual es es el porcentage de municipios por cada estado dentro de estas categorias, tambien graficar el total de habitantes que estan dentro de estas por estado para poder entender la informacion desde estos do puntos de vista y aparte ver como se comporta la grafica en poblacionies menores a 5000 mi habitantes.
